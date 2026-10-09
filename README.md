@@ -1,10 +1,9 @@
-Dokumentacja
-
-Projekt będzie rozwijany stopniowo wraz z kolejnymi etapami analizy i projektowania.
+SimWall
 
 Na początek:
 
 Wizja
+
 Struktura
 
 campus-ai-assistant/
