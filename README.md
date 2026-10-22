@@ -4,7 +4,7 @@ Wizja: [vision.md](docs/vision.md)
 
 Słownik: [glossary.md](docs/glossary.md)
 
-Wymagania: [requirements.md](requirements.md)
+Wymagania: [requirements.md](docs/requirements.md)
 
 ## Struktura
 
