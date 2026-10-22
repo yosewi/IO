@@ -1,7 +1,9 @@
 SimWall
 
 Wizja: [vision.md](docs/vision.md)
+
 Słownik: [glossary.md](docs/glossary.md)
+
 Wymagania: [requirements.md](requirements.md)
 
 ## Struktura
