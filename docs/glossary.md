@@ -17,3 +17,4 @@
 | Sektor | Jedna z trzech części toru wyścigowego, na które podzielona jest każde okrążenie |
 | Strefa hamowania | Odcinek toru wyścigowego, na którym kierowca gwałtownie naciska na pedał hamulca, aby wytracić prędkość do wartości umożliwiającej bezpieczne pokonanie łuku/zakrętu |
 | Linia wyścigowa | Optymalny tor jazdy po torze, który pozwala kierowcy pokonać zakręt lub całe okrążenie w najkrótszym możliwym czasie, zapewniając najwyższą prędkość wyjściową na prostą |
+| Ustawienia samochodu | Parametry mechaniczne i aerodynamiczne, które dopasowują zachowanie samochodu do konkretnego toru wyścigowego. |
