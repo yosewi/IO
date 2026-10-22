@@ -15,3 +15,5 @@
 | Plan poprawy | Lista błędów, nad którymi gracz ma pracować w następnej sesji, każdy z przyczyną i tym, co zmienić. |
 | Pit stop | Zjazd do alei serwisowej w trakcie wyścigu w celu wymiany opon lub tankowania. |
 | Sektor | Jedna z trzech części toru wyścigowego, na które podzielona jest każde okrążenie |
+| Strefa hamowania | Odcinek toru wyścigowego, na którym kierowca gwałtownie naciska na pedał hamulca, aby wytracić prędkość do wartości umożliwiającej bezpieczne pokonanie łuku/zakrętu |
+| Linia wyścigowa | Optymalny tor jazdy po torze, który pozwala kierowcy pokonać zakręt lub całe okrążenie w najkrótszym możliwym czasie, zapewniając najwyższą prędkość wyjściową na prostą |
