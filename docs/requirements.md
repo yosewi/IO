@@ -35,6 +35,9 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 | `NFR-03` | System renderuje mapę 2D toru wraz z wybraną warstwą heatmapy i znacznikami błędów w czasie nieprzekraczającym 2 sekund od wyboru okrążenia. |
 | `NFR-04` | Proces rejestracji telemetrii w tle nie powoduje spadku płynności gry i zużywa maksymalnie 5% mocy obliczeniowej procesora. |
 
+## Ukryte wymagania
+* System automatycznie grupuje historię sesji na podstawie konta gracza z danej gry, odczytanego z danych telemetrycznych.
+
 ## Pytania otwarte
 
 * Co system powinien zrobić, jeśli połączenie z symulatorem zostanie przerwane w trakcie trwania sesji lub okrążenia?
