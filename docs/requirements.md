@@ -17,14 +17,16 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 | :--- | :--- |
 | `FR-01` | System automatycznie rejestruje dane telemetryczne przesyłane bezpośrednio z uruchomionego symulatora wyścigowego.  |
 | `FR-02` | System umożliwia porównanie dwóch dowolnie wybranych przez użytkownika okrążeń (np. najlepszego z ostatnim). |
-| `FR-03` | System identyfikuje przyczynę straty czasu na podstawie porównania dwóch okrążeń i generuje wskazówki dotyczące poprawy przejazdu. |
-| `FR-04` | System umożliwia zadawanie pytań w języku naturalnym dotyczących stylu jazdy w wybranej sesji, okrążeniu lub sektorze i zwraca wygenerowaną odpowiedź. |
-| `FR-05` | System generuje zalecane ustawienia samochodu (setup) w odpowiedzi na zapytanie użytkownika określające docelowy tor oraz warunki pogodowe. |
-| `FR-06` | System rekomenduje zmiany w ustawieniach samochodu na podstawie opisanego przez użytkownika problemu z prowadzeniem pojazdu (np. utrata przyczepności, problemy ze skręcaniem, niewłaściwa praca hamulców). |
-| `FR-07` | System prezentuje mapę 2D toru z naniesioną linią jazdy użytkownika. |
-| `FR-08` | System umożliwia nałożenie na mapę 2D toru wybranej warstwy wizualnej (heatmapy) prezentującej strefy hamowania lub poziom użycia gazu. |
-| `FR-09` | System oznacza na mapie 2D toru miejsca lub sektory, w których użytkownik popełnił błąd, wraz z krótkim opisem tego błędu. |
-| `FR-10` | System na żądanie użytkownika analizuje dane treningowe z wybranego okresu czasu i zwraca zestawienie powtarzających się błędów. |
+| `FR-03` | System identyfikuje przyczynę straty czasu na podstawie porównania dwóch okrążeń. |
+| `FR-04` | System generuje wskazówki dotyczące poprawy czasu okrążenia. |
+| `FR-05` | System umożliwia zadawanie pytań w języku naturalnym dotyczących stylu jazdy w wybranej sesji, okrążeniu lub sektorze. |
+| `FR-06` | System generuje zalecane ustawienia samochodu (setup) w odpowiedzi na zapytanie użytkownika określające docelowy tor oraz warunki pogodowe. |
+| `FR-07` | System rekomenduje zmiany w ustawieniach samochodu na podstawie opisanego przez użytkownika problemu z prowadzeniem pojazdu (np. utrata przyczepności, problemy ze skręcaniem, niewłaściwa praca hamulców). |
+| `FR-08` | System prezentuje mapę 2D toru z naniesioną linią jazdy użytkownika. |
+| `FR-09` | System umożliwia nałożenie na mapę 2D toru wybranej warstwy wizualnej (heatmapy) prezentującej strefy hamowania lub poziom użycia gazu. |
+| `FR-10` | System oznacza na mapie 2D toru miejsca lub sektory, w których użytkownik popełnił błąd. |
+| `FR-11` | System na żądanie użytkownika analizuje dane treningowe z wybranego okresu czasu i zwraca zestawienie powtarzających się błędów. |
+| `FR-12` | System automatycznie przypisuje zarejestrowaną sesję treningową do profilu kierowcy na podstawie identyfikatora gracza odczytanego ze strumienia telemetrii. |
 
 ## Wymagania niefunkcjonalne
 
