@@ -2,7 +2,7 @@
 |---------|-----------|
 | Gracz | Osoba, która jeździ w symulatorze wyścigowym i korzysta z systemu. |
 | Symulator wyścigowy | Gra symulująca wyścigi (np. F1, Assetto Corsa), z której system pobiera telemetrię. |
-| Telemetria | Dane, które symulator wyścigowy wysyła w trakcie jazdy: m.in. prędkość, położenie na torze, użycie gazu i hamulca, skręt kierownicy, bieg, poziom paliwa. |
+| Telemetria | Dane, które symulator wyścigowy wysyła w trakcie jazdy: m.in. prędkość, położenie na torze, użycie gazu i hamulca, skręt kierownicy, bieg, poziom paliwa, ważność okrążenia |
 | Tor | Konkretna trasa wyścigowa w symulatorze wyścigowym. |
 | Zakręt | Fragment toru o stałych granicach, od punktu hamowania do wyjścia na prostą. Ma numer zgodny z oficjalną numeracją toru. |
 | Sesja | Ciągła jazda na jednym torze jednym samochodem, od wyjazdu na tor do wyjścia z jazdy w symulatorze wyścigowym. Jedna sesja zawiera wiele okrążeń. |
