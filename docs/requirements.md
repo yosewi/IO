@@ -26,7 +26,7 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 | `FR-09` | System umożliwia nałożenie na mapę 2D toru wybranej warstwy wizualnej (heatmapy) prezentującej strefy hamowania lub poziom użycia gazu. |
 | `FR-10` | System oznacza na mapie 2D toru miejsca lub sektory, w których użytkownik popełnił błąd. |
 | `FR-11` | System na żądanie użytkownika analizuje dane treningowe z wybranego okresu czasu i zwraca zestawienie powtarzających się błędów. |
-| `FR-12` | System automatycznie przypisuje zarejestrowaną sesję treningową do profilu kierowcy na podstawie identyfikatora gracza odczytanego ze strumienia telemetrii. |
+| `FR-12` | System automatycznie grupuje historię sesji na podstawie identyfikatora gracza odczytanego ze strumienia telemetrii. |
 
 ## Wymagania niefunkcjonalne
 
@@ -37,8 +37,6 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 | `NFR-03` | System renderuje mapę 2D toru wraz z wybraną warstwą heatmapy i znacznikami błędów w czasie nieprzekraczającym 2 sekund od wyboru okrążenia. |
 | `NFR-04` | Proces rejestracji telemetrii w tle nie powoduje spadku płynności gry i zużywa maksymalnie 5% mocy obliczeniowej procesora. |
 
-## Ukryte wymagania
-* System automatycznie grupuje historię sesji na podstawie konta gracza z danej gry, odczytanego z danych telemetrycznych.
 
 ## Pytania otwarte
 
