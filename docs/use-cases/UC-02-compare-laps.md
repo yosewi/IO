@@ -10,7 +10,7 @@ Dowiedzenie się, gdzie i dlaczego jedno okrążenie było wolniejsze od drugieg
 
 ## Powiązane wymagania
 
-FR-02, FR-03, FR-04
+FR-02, FR-03, FR-04, NFR-02
 
 ## Warunek wstępny
 
@@ -18,7 +18,7 @@ Gracz ma zarejestrowane co najmniej dwa okrążenia na tym samym torze.
 
 ## Scenariusz podstawowy
 
-1. Gracz wybiera dwa okrążenia do porównania, np. okrążenie 5 i okrążenie 12 z dzisiejszej sesji.
+1. Gracz wybiera dwa okrążenia do porównania.
 2. System porównuje okrążenia i wylicza stratę czasu na każdym zakręcie.
 3. System wskazuje zakręty, na których gracz stracił najwięcej czasu.
 4. System identyfikuje przyczynę straty czasu na tych zakrętach.
