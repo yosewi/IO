@@ -1,5 +1,5 @@
 Simracerzy mają dostęp do ogromnej ilości danych telemetrycznych, ale nie potrafią ich szybko zinterpretować podczas analizy swoich treningów. Chcemy stworzyć agenta AI, który zamienia telemetrię w konkretne wnioski i plan poprawy.
 
-Asystent porównuje okrążenia ze sobą i z najlepszym wynikiem gracza, wskazuje zakręty, w których ucieka najwięcej czasu, i wyjaśnia przyczynę, np. zbyt wczesne hamowanie albo słabe wyjście z zakrętu. Śledzi postępy między sesjami i wychwytuje powtarzające się błędy, a na tej podstawie pomaga przygotować strategię na kolejny wyścig i poprawić swój wynik. Dodatkowo asystent doradza, jak dostosować ustawienia samochodu pod konkretny tor, warunki pogodowe lub zgłaszane przez kierowcę problemy z prowadzeniem auta.
+Asystent porównuje okrążenia ze sobą i z najlepszym wynikiem gracza, wskazuje zakręty, w których ucieka najwięcej czasu, i wyjaśnia przyczynę, np. zbyt wczesne hamowanie albo słabe wyjście z zakrętu. Śledzi postępy między sesjami i wychwytuje powtarzające się błędy, a na tej podstawie pomaga przygotować strategię na kolejny wyścig i poprawić swój wynik. Dodatkowo asystent doradza, jak dostosować ustawienia samochodu pod konkretny tor, warunki pogodowe lub zgłaszane przez gracza problemy z prowadzeniem auta.
 
-Dane pobierane są bezpośrednio z gier takich jak F1, czy Assetto Corsa i prezentowane w jednym, czytelnym dashboardzie.
+Dane pobierane są bezpośrednio z symulatorów wyścigowych, takich jak F1 czy Assetto Corsa, i prezentowane w jednym, czytelnym dashboardzie.
