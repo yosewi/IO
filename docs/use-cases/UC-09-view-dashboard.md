@@ -25,5 +25,5 @@ Gracz ma zarejestrowaną co najmniej jedną sesję.
 
 ## Scenariusze alternatywne
 
-- **3a. Brak ważnego okrążenia na danym torze danym samochodem:** System prezentuje sesje bez najlepszego czasu okrążenia i informuje gracza, że nie ma jeszcze ważnego okrążenia.
-- **4a. Tylko jedna sesja na danym torze danym samochodem:** System nie prezentuje zmiany najlepszego czasu, ponieważ nie ma jej z czym porównać.
+- **3a. Brak ważnych okrążeń na torze:** System prezentuje sesje z tego toru bez wyznaczonego najlepszego okrążenia i bez zmiany czasu między sesjami.
+- **4a. Ważne okrążenia tylko z jednej sesji na torze:** System prezentuje najlepsze okrążenie, ale nie wyświetla zmiany czasu między sesjami.
