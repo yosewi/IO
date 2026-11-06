@@ -14,7 +14,7 @@ FR-07, NFR-02
 
 ## Warunek wstępny
 
-System posiada informacje o ustawieniach samochodu, które gracz może zmieniać.
+System posiada informacje o ustawieniach samochodu, które gracz może zmieniać oraz dane telemetryczne.
 
 ## Scenariusz podstawowy
 
@@ -25,5 +25,5 @@ System posiada informacje o ustawieniach samochodu, które gracz może zmieniać
 
 ## Scenariusze alternatywne
 
-- **2a. Opis problemu jest zbyt ogólny:** System prosi gracza o doprecyzowanie, w którym miejscu toru i w jakiej sytuacji występuje problem.
+- **2a. Opis problemu jest zbyt ogólny:** System prosi gracza o doprecyzowanie, w którym miejscu toru, w jakim samochodzie i w jakiej sytuacji występuje problem.
 - **2b. Problem nie wynika z ustawień samochodu:** System informuje gracza, że przyczyną jest sposób jazdy, i wskazuje, co zmienić w jeździe.
