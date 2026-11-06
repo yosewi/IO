@@ -26,6 +26,8 @@ Gracz ma zarejestrowane co najmniej jedno okrążenie.
 
 ## Scenariusze alternatywne
 
+- **1a. Wybrano okrążenie nieważne:** System informuje gracza, że podgląd mapy jest dostępny tylko dla ważnych okrążeń, i prosi o wybranie innego okrążenia.
 - **2a. Brak mapy toru:** System informuje gracza, że nie może przedstawić mapy dla tego toru.
 - **3a. Wybrane okrążenie jest najlepszym okrążeniem:** System prezentuje mapę bez znaczników straty czasu i informuje gracza, że to jego najlepsze okrążenie.
 - **3b. Brak istotnej straty czasu:** System prezentuje mapę bez znaczników straty czasu i informuje gracza, że nie znaleziono miejsc z istotną stratą czasu.
+- **3c. Brak najlepszego okrążenia:** System prezentuje mapę bez znaczników straty czasu i informuje gracza, że nie ma jeszcze żadnego ważnego okrążenia na tym torze, z którym można porównać przejazd.
