@@ -21,7 +21,7 @@ Symulator wyścigowy jest uruchomiony i udostępnia telemetrię.
 1. Gracz wyjeżdża na tor w symulatorze wyścigowym.
 2. System łączy się z symulatorem wyścigowym i zaczyna odbierać telemetrię.
 3. System odczytuje identyfikator gracza i dołącza sesję do historii sesji tego gracza.
-4. System rejestruje kolejne okrążenia, oznaczając okrążenia nieważne.
+4. System rejestruje kolejne okrążenia.
 5. Gracz kończy jazdę.
 6. System zamyka i zapisuje sesję.
 
