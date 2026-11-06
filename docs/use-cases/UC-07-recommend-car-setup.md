@@ -19,9 +19,8 @@ System posiada informacje o torach, samochodach i ustawieniach samochodu, które
 ## Scenariusz podstawowy
 
 1. Gracz prosi o ustawienia samochodu, np. „Przygotuj setup McLarena na Spa na deszcz”.
-2. System ustala samochód pod tor i warunki pogodowe.
-3. System dobiera ustawienia dla wybranego samochodu.
-4. System prezentuje zalecane ustawienia wraz z krótkim uzasadnieniem.
+2. System dobiera ustawienia samochodu pod tor i warunki pogodowe.
+3. System prezentuje zalecane ustawienia wraz z krótkim uzasadnieniem.
 
 ## Scenariusze alternatywne
 
